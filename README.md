@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As an experienced web developer with over 20 years of expertise, I specialize in creating [fast-loading websites](https://straffesites.com/en) 🚀 that are visually impressive and technically advanced. I leverage the latest technologies and best practices to develop fast-loading and user-friendly websites that perform well in search engines like Google.
+As an experienced [freelance web developer](https://straffesites.com/freelance-webdeveloper) with over 20 years of expertise, I specialize in creating [fast-loading websites](https://straffesites.com/en) 🚀 that are visually impressive and technically advanced. I leverage the latest technologies and best practices to develop fast-loading and user-friendly websites that perform well in search engines like Google.
 
 With a deep knowledge of various tools and technologies, such as:
 
