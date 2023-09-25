@@ -6,4 +6,6 @@ With a deep knowledge of various tools and technologies such as HTML, JavaScript
 
 Passionate about creating user-friendly and efficient online solutions for my clients, I am dedicated to delivering high-quality, professional work that exceeds expectations. So whether you're looking for a new website or need help optimizing an existing one, I have the skills and expertise to help you achieve your goals.
 
+If you want to work with me or have any questions, don't hesitate to [contact me](https://straffesites.com/en/contact)! 
+
 [![@seppegadeyne Astro contributions](https://astro.badg.es/v2/contributor/seppegadeyne.svg)](https://astro.badg.es/contributor/seppegadeyne/)
