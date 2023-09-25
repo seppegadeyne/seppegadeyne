@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As an experienced web developer with over 20 years of expertise, I specialize in creating fast-loading websites 🚀 that are both visually impressive and technically advanced. I leverage the latest technologies and best practices to develop fast-loading and user-friendly websites that perform well in search engines like Google.
+As an experienced web developer with over 20 years of expertise, I specialize in creating [fast-loading websites](https://straffesites.com/en) 🚀 that are visually impressive and technically advanced. I leverage the latest technologies and best practices to develop fast-loading and user-friendly websites that perform well in search engines like Google.
 
 With a deep knowledge of various tools and technologies such as HTML, JavaScript, CSS, Astro, Tailwind CSS, Storyblok, and Vercel, I can create fast, efficient, and user-friendly websites. I am also an expert in search engine optimization (SEO) and use AI tools to optimize content further. In addition, it's worth looking at my blog posts, where I share my experiences and insights about web development, SEO, and the latest technologies. This way, you can gain valuable information and gather inspiration for your projects.
 
