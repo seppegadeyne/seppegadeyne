@@ -16,7 +16,7 @@ With a deep knowledge of various tools and technologies, such as:
 - Webservers
 - API's
 
-I can create fast, efficient, and user-friendly websites. I am also an expert in search engine optimization (SEO) and use AI tools to optimize content further. In addition, it's worth looking at my blog posts, where I share my experiences and insights about web development, SEO, and the latest technologies. This way, you can gain valuable information and gather inspiration for your projects.
+I can create fast, efficient, and user-friendly websites. I am also an expert in [search engine optimization](https://straffesites.com/en/seo) (SEO) and use AI tools to optimize content further. In addition, it's worth looking at my [blog posts](https://straffesites.com/en/blog), where I share my experiences and insights about web development, SEO, and the latest technologies. This way, you can gain valuable information and gather inspiration for your projects.
 
 Passionate about creating user-friendly and efficient online solutions for my clients, I am dedicated to delivering high-quality, professional work that exceeds expectations. So whether you're looking for a new website or need help optimizing an existing one, I have the skills and expertise to help you achieve your goals.
 
