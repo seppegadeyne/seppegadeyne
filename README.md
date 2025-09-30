@@ -20,8 +20,8 @@
 
 
 ## 📈 Beyond code
-- 🔍 Expert in [search engine optimization (SEO)](https://straffesites.com)  
-- ✍️ Writing about dev, SEO & performance on [my blog](https://straffesites.com)  
+- 🔍 Expert in [search engine optimization (SEO)](https://straffesites.com/en/seo)  
+- ✍️ Writing about dev, SEO & performance on [my blog](https://straffesites.com/en/blog)  
 - 🤖 Using AI tools to **optimize workflows** and build faster  
 
 
