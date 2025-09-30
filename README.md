@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Seppe Gadeyne  
 
-🚀 **Freelance Web Developer** with 20+ years of experience in building blazing-fast, SEO-optimized and technically advanced websites.  
-I specialize in creating **performance-driven solutions** that are not only visually impressive, but also score high in search engines and provide the best user experience.  
+🚀 **Freelance web developer** with 20+ years of experience in building blazing-fast, SEO-optimized and technically advanced websites. I specialize in creating **performance-driven solutions** that are not only visually impressive, but also score high in search engines and provide the best user experience.  
 
 ---
 
