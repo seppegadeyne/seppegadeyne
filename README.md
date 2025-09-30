@@ -14,12 +14,11 @@
 ---
 
 ## 🛠️ Tech stack
-```text
-💻 HTML | CSS | JavaScript | TypeScript
-⚡ Astro | Tailwind CSS | Storyblok | WordPress
-🖥️ Linux | Webservers | APIs
-🚀 Vercel | Cloudflare Workers
-```
+
+- 💻 HTML | CSS | JavaScript | TypeScript
+- ⚡ Astro | Tailwind CSS | Storyblok | WordPress
+- 🖥️ Linux | Webservers | APIs
+- 🚀 Vercel | Cloudflare Workers
 
 ---
 
