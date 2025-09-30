@@ -14,30 +14,30 @@
 
 <!-- Row 1 -->
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
 
 <!-- Row 2 -->
 
-![Astro](https://img.shields.io/badge/Astro-000?logo=astro&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Storyblok](https://img.shields.io/badge/Storyblok-09B3AF?logo=storyblok&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+<img src="https://img.shields.io/badge/Astro-000?logo=astro&logoColor=white" alt="Astro" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Storyblok-09B3AF?logo=storyblok&logoColor=white" alt="Storyblok" />
+<img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
 
 <!-- Row 3 -->
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Cloudflare_Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+<img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" alt="Nginx" />
 
 <!-- Row 4 -->
 
-![SEO](https://img.shields.io/badge/SEO-4285F4?logo=google&logoColor=white)
-![Lighthouse_Perf](https://img.shields.io/badge/Lighthouse_Perf-4CAF50?logo=lighthouse&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-2D333B?logo=swagger&logoColor=white)
+<img src="https://img.shields.io/badge/SEO-4285F4?logo=google&logoColor=white" alt="SEO" />
+<img src="https://img.shields.io/badge/Lighthouse_Perf-4CAF50?logo=lighthouse&logoColor=white" alt="Lighthouse performance" />
+<img src="https://img.shields.io/badge/APIs-2D333B?logo=swagger&logoColor=white" alt="APIs" />
 
 ## 🛠️ Tech stack
 
@@ -59,13 +59,11 @@
 
 ## 🐍 Contribution graph
 
-![snake animation – light](https://raw.githubusercontent.com/seppegadeyne/seppegadeyne/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake animation – dark](https://raw.githubusercontent.com/seppegadeyne/seppegadeyne/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<img src="https://raw.githubusercontent.com/seppegadeyne/seppegadeyne/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light" />
+<img src="https://raw.githubusercontent.com/seppegadeyne/seppegadeyne/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
 
 ## 📊 GitHub stats
 
-![Seppe's GitHub stats](https://github-readme-stats.vercel.app/api?username=seppegadeyne&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seppegadeyne&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seppegadeyne&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 
 ⭐️ _Passionate about building efficient, scalable, and user-friendly digital solutions that exceed expectations._
