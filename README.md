@@ -4,7 +4,7 @@
 
 ---
 
-## ⚡️ what i do
+## ⚡️ What i do
 - ⚙️ **Fast & SEO-optimized websites** – Lightning-speed, optimized for Google & users  
 - 🎨 **Modern front-end** – Clean, responsive, and scalable design systems  
 - 🔗 **API integrations** – Connecting tools and services seamlessly  
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ tech stack
+## 🛠️ Tech stack
 ```text
 💻 HTML | CSS | JavaScript | TypeScript
 ⚡ Astro | Tailwind CSS | Storyblok | WordPress
@@ -23,20 +23,20 @@
 
 ---
 
-## 📈 beyond code
+## 📈 Beyond code
 - 🔍 Expert in [search engine optimization (SEO)](https://straffesites.com)  
 - ✍️ Writing about dev, SEO & performance on [my blog](https://straffesites.com)  
 - 🤖 Using AI tools to **optimize workflows** and build faster  
 
 ---
 
-## 🌍 let's connect
+## 🌍 Let's connect
 📫 [seppe@straffesites.com](mailto:seppe@straffesites.com)  
-🌐 [straffesites.com](https://straffesites.com)  
+🌐 [straffesites.com](https://straffesites.com/en)  
 
 ---
 
-## 🐍 contribution graph
+## 🐍 Contribution graph
 ![Snake animation](https://github.com/seppegadeyne/seppegadeyne/blob/output/github-contribution-grid-snake.svg)
 
 ---
