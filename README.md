@@ -1,25 +1,45 @@
-### Hi there 👋
+# 👋 Hi, I'm Seppe Gadeyne  
 
-As an experienced [freelance web developer](https://straffesites.com/freelance-webdeveloper) with over 20 years of expertise, I specialize in creating [fast-loading websites](https://straffesites.com/en) 🚀 that are visually impressive and technically advanced. I leverage the latest technologies and best practices to develop fast-loading and user-friendly websites that perform well in search engines like Google.
+🚀 **Freelance Web Developer** with 20+ years of experience in building blazing-fast, SEO-optimized and technically advanced websites.  
+I specialize in creating **performance-driven solutions** that are not only visually impressive, but also score high in search engines and provide the best user experience.  
 
-With a deep knowledge of various tools and technologies, such as:
+---
 
-- HTML
-- JavaScript
-- CSS
-- Astro
-- Tailwind CSS
-- Storyblok
-- WordPress
-- Vercel
-- Linux
-- Webservers
-- API's
+## ⚡️ what i do
+- ⚙️ **Fast & SEO-optimized websites** – Lightning-speed, optimized for Google & users  
+- 🎨 **Modern front-end** – Clean, responsive, and scalable design systems  
+- 🔗 **API integrations** – Connecting tools and services seamlessly  
+- 🖥️ **Custom WordPress & WooCommerce** – Tailored themes, blocks & optimizations  
+- ☁️ **Hosting & DevOps** – Linux, Vercel, Cloudflare, Webservers  
 
-I can create fast, efficient, and user-friendly websites. I am also an expert in [search engine optimization](https://straffesites.com/en/seo) (SEO) and use AI tools to optimize content further. In addition, it's worth looking at my [blog posts](https://straffesites.com/en/blog), where I share my experiences and insights about web development, SEO, and the latest technologies. This way, you can gain valuable information and gather inspiration for your projects.
+---
 
-Passionate about creating user-friendly and efficient online solutions for my clients, I am dedicated to delivering high-quality, professional work that exceeds expectations. So whether you're looking for a new website or need help optimizing an existing one, I have the skills and expertise to help you achieve your goals.
+## 🛠️ tech stack
+```text
+💻 HTML | CSS | JavaScript | TypeScript
+⚡ Astro | Tailwind CSS | Storyblok | WordPress
+🖥️ Linux | Webservers | APIs
+🚀 Vercel | Cloudflare Workers
+```
 
-If you want to work with me or have any questions, don't hesitate to [contact me](https://straffesites.com/en/contact)! 
+---
 
-[![@seppegadeyne Astro contributions](https://astro.badg.es/v2/contributor/seppegadeyne.svg)](https://astro.badg.es/contributor/seppegadeyne/)
+## 📈 beyond code
+- 🔍 Expert in [search engine optimization (SEO)](https://straffesites.com)  
+- ✍️ Writing about dev, SEO & performance on [my blog](https://straffesites.com)  
+- 🤖 Using AI tools to **optimize workflows** and build faster  
+
+---
+
+## 🌍 let's connect
+📫 [seppe@straffesites.com](mailto:seppe@straffesites.com)  
+🌐 [straffesites.com](https://straffesites.com)  
+
+---
+
+## 🐍 contribution graph
+![Snake animation](https://github.com/seppegadeyne/seppegadeyne/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐️ *Passionate about building efficient, scalable, and user-friendly digital solutions that exceed expectations.*
