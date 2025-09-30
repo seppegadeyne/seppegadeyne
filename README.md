@@ -45,7 +45,7 @@
 
 ## 🌍 Let's connect
 
-📫 [seppe@straffesites.com](mailto:seppe@straffesites.com)  
+📫 [seppe@fushia.be](mailto:seppe@fushia.be)  
 🌐 [straffesites.com](https://straffesites.com/en)
 
 ## 🐍 Contribution graph
