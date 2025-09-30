@@ -31,7 +31,9 @@
 
 
 ## 🐍 Contribution graph
-![Snake animation](https://github.com/seppegadeyne/seppegadeyne/blob/output/github-contribution-grid-snake.svg)
+![snake animation – light](https://raw.githubusercontent.com/seppegadeyne/seppegadeyne/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake animation – dark](https://raw.githubusercontent.com/seppegadeyne/seppegadeyne/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 
 ⭐️ *Passionate about building efficient, scalable, and user-friendly digital solutions that exceed expectations.*
