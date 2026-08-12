@@ -1,56 +1,27 @@
-# 👋 Hi, I'm Seppe Gadeyne
+# Hej — I'm Seppe Gadeyne
 
-🚀 **Freelance web developer** with 25+ years of experience in building blazing-fast, SEO-optimized and technically advanced websites. I specialize in creating **performance-driven solutions** that are not only visually impressive, but also score high in search engines and provide the best user experience.
+Developer and AI specialist based in Belgium. 25+ years building fast, reliable software — now also bringing local AI agents to small and medium businesses.
 
-## ⚡️ What i do
+## What I do
 
-- ⚙️ **Fast & SEO-optimized websites** – Lightning-speed, optimized for Google & users
-- 🎨 **Modern front-end** – Clean, responsive, and scalable design systems
-- 🔗 **API integrations** – Connecting tools and services seamlessly
-- 🖥️ **Custom WordPress & WooCommerce** – Tailored themes, blocks & optimizations
-- ☁️ **Hosting & DevOps** – Linux, Vercel, Cloudflare, Webservers
+- 🤖 **AI agents for SMBs** — I run [Voltti](https://voltti.ai), installing and managing [Hermes Agent](https://hermes-agent.nousresearch.com) as a local, privacy-first AI solution for companies in Belgium and the Netherlands. One agent that actually does the work — not just chats about it.
+- ⚡ **Performance-driven web** — Blazing-fast, SEO-optimized websites and applications. Clean architecture, measurable results. Through [Straffe Sites](https://straffesites.com/en).
+- 🔧 **Automation & DevOps** — Linux, self-hosted infrastructure, CI/CD, and workflow automation. If it's repetitive, it should run itself.
+- 🧠 **Applied AI** — Model selection, local inference, tooling, and integrating AI into real development workflows.
 
-## 🧰 toolbox
+## Currently
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Astro-000?logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Storyblok-09B3AF?logo=storyblok&logoColor=white" alt="Storyblok" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/SEO-4285F4?logo=google&logoColor=white" alt="SEO" />
-  <img src="https://img.shields.io/badge/Lighthouse_Perf-4CAF50?logo=lighthouse&logoColor=white" alt="Lighthouse performance" />
-  <img src="https://img.shields.io/badge/APIs-2D333B?logo=swagger&logoColor=white" alt="APIs" />
-</div>
+Building [Voltti](https://voltti.ai) — a managed service that deploys Hermes Agent on-premises for SMBs. The agent runs locally, learns from every task, and connects to the tools your team already uses. No cloud lock-in, no data leaving your environment unless you choose it.
 
-## 🛠️ Tech stack
+## Let's connect
 
-- 💻 HTML | CSS | JavaScript | TypeScript
-- ⚡ Astro | Tailwind CSS | Storyblok | WordPress
-- 🖥️ Linux | Webservers | APIs
-- 🚀 Vercel | Cloudflare Workers
+- 🌐 [voltti.ai](https://voltti.ai) — AI agents for your business
+- 🌐 [straffesites.com](https://straffesites.com/en) — Web development & SEO
+- 📫 [seppe@fushia.be](mailto:seppe@fushia.be)
 
-## 📈 Beyond code
+---
 
-- 🔍 Expert in [search engine optimization (SEO)](https://straffesites.com/en/seo)
-- ✍️ Writing about dev, SEO & performance on [my blog](https://straffesites.com/en/blog)
-- 🤖 Using AI tools to **optimize workflows** and build faster
+## Contribution graph
 
-## 🌍 Let's connect
-
-📫 [seppe@fushia.be](mailto:seppe@fushia.be)  
-🌐 [straffesites.com](https://straffesites.com/en)
-
-## 🐍 Contribution graph
-
-<img src="https://raw.githubusercontent.com/seppegadeyne/seppegadeyne/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light" />
-<img src="https://raw.githubusercontent.com/seppegadeyne/seppegadeyne/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
-
-⭐️ _Passionate about building efficient, scalable, and user-friendly digital solutions that exceed expectations._
+<img src="https://raw.githubusercontent.com/seppegadeyne/seppegadeyne/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/seppegadeyne/seppegadeyne/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake (dark)" />
