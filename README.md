@@ -1,6 +1,6 @@
 # Hej — I'm Seppe Gadeyne
 
-Developer and AI specialist based in Belgium. 25+ years building fast, reliable software — now also bringing local AI agents to small and medium businesses.
+Developer and AI specialist based in Belgium. 25+ years building fast, reliable websites — now also bringing local AI agents to small and medium businesses.
 
 ## What I do
 
