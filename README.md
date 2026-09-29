@@ -13,11 +13,6 @@ Developer and AI specialist based in Belgium. 25+ years building fast, reliable 
 
 Building [Voltti](https://voltti.ai) — a managed service that deploys Hermes Agent on-premises for SMBs. The agent runs locally, learns from every task, and connects to the tools your team already uses. No cloud lock-in, no data leaving your environment unless you choose it.
 
-## Recent writing
-
-- [AI agent or chatbot: the 7 differences that matter](https://voltti.ai/en/insights/ai-agent-or-chatbot-the-7-differences-that-matter) — when a chatbot is enough, and when you need an agent that actually executes the work.
-- [What is an AI agent? How it works, without the jargon](https://voltti.ai/en/insights/what-is-an-ai-agent-how-it-works-without-the-jargon) — a plain-language introduction to what AI agents are and how they work, without the buzzwords.
-
 ## Let's connect
 
 - 🌐 [voltti.ai](https://voltti.ai/en) — AI agents for your business
