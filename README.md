@@ -15,8 +15,8 @@ Building [Voltti](https://voltti.ai) — a managed service that deploys Hermes A
 
 ## Recent writing
 
-- 🇳🇱 [AI-agent versus chatbot: het verschil zit in wat er na het antwoord gebeurt](https://voltti.ai/inzichten/ai-agent-vs-chatbot) — when a chatbot is enough, and when you need an agent that actually executes the work. In Dutch, for businesses in Belgium and the Netherlands.
-- 🇳🇱 [Wat is een AI-agent? Zo werkt het, zonder jargon](https://voltti.ai/inzichten/wat-is-een-ai-agent) — a plain-language introduction to what AI agents are and how they work, without the buzzwords.
+- [AI agent or chatbot: the 7 differences that matter](https://voltti.ai/en/insights/ai-agent-or-chatbot-the-7-differences-that-matter) — when a chatbot is enough, and when you need an agent that actually executes the work.
+- [What is an AI agent? How it works, without the jargon](https://voltti.ai/en/insights/what-is-an-ai-agent-how-it-works-without-the-jargon) — a plain-language introduction to what AI agents are and how they work, without the buzzwords.
 
 ## Let's connect
 
