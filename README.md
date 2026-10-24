@@ -17,6 +17,7 @@ Building [Voltti](https://voltti.ai) — a managed service that deploys Hermes A
 
 - 🌐 [voltti.ai](https://voltti.ai/en) — AI agents for your business
 - 🌐 [straffesites.com](https://straffesites.com/en) — Web development & SEO
+- ✍️ [dev.to/seppegadeyne](https://dev.to/seppegadeyne) — Articles on AI agents, web dev & DevOps
 - 📫 [seppe@fushia.be](mailto:seppe@fushia.be)
 
 ---
